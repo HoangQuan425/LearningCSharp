@@ -1,0 +1,15 @@
+E:\C#\WebDemo\MyWebsite.Data\bin\Debug\net8.0\MyWebsite.Data.deps.json
+E:\C#\WebDemo\MyWebsite.Data\bin\Debug\net8.0\MyWebsite.Data.dll
+E:\C#\WebDemo\MyWebsite.Data\bin\Debug\net8.0\MyWebsite.Data.pdb
+E:\C#\WebDemo\MyWebsite.Data\bin\Debug\net8.0\MyWebsite.Infrastructure.dll
+E:\C#\WebDemo\MyWebsite.Data\bin\Debug\net8.0\MyWebsite.Infrastructure.pdb
+E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.csproj.AssemblyReference.cache
+E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.AssemblyInfoInputs.cache
+E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.AssemblyInfo.cs
+E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.csproj.CoreCompileInputs.cache
+E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.csproj.CopyComplete
+E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.dll
+E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\refint\MyWebsite.Data.dll
+E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.pdb
+E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\ref\MyWebsite.Data.dll

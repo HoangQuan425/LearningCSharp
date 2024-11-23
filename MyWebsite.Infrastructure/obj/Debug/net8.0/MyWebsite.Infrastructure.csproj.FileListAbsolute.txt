@@ -1,0 +1,11 @@
+E:\C#\WebDemo\MyWebsite.Infrastructure\bin\Debug\net8.0\MyWebsite.Infrastructure.deps.json
+E:\C#\WebDemo\MyWebsite.Infrastructure\bin\Debug\net8.0\MyWebsite.Infrastructure.dll
+E:\C#\WebDemo\MyWebsite.Infrastructure\bin\Debug\net8.0\MyWebsite.Infrastructure.pdb
+E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.AssemblyInfoInputs.cache
+E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.AssemblyInfo.cs
+E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.csproj.CoreCompileInputs.cache
+E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.dll
+E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\refint\MyWebsite.Infrastructure.dll
+E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.pdb
+E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\ref\MyWebsite.Infrastructure.dll
