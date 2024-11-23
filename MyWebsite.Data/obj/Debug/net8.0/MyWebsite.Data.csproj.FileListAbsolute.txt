@@ -8,6 +8,7 @@ E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.GeneratedMSBuildEdi
 E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.AssemblyInfoInputs.cache
 E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.AssemblyInfo.cs
 E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.csproj.CoreCompileInputs.cache
+E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.sourcelink.json
 E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.csproj.CopyComplete
 E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\MyWebsite.Data.dll
 E:\C#\WebDemo\MyWebsite.Data\obj\Debug\net8.0\refint\MyWebsite.Data.dll

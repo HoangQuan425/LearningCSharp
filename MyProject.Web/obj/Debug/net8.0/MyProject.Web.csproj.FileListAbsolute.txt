@@ -13,6 +13,7 @@ E:\C#\WebDemo\MyProject.Web\obj\Debug\net8.0\MyProject.Web.csproj.CoreCompileInp
 E:\C#\WebDemo\MyProject.Web\obj\Debug\net8.0\MyProject.Web.MvcApplicationPartsAssemblyInfo.cache
 E:\C#\WebDemo\MyProject.Web\obj\Debug\net8.0\MyProject.Web.RazorAssemblyInfo.cache
 E:\C#\WebDemo\MyProject.Web\obj\Debug\net8.0\MyProject.Web.RazorAssemblyInfo.cs
+E:\C#\WebDemo\MyProject.Web\obj\Debug\net8.0\MyProject.Web.sourcelink.json
 E:\C#\WebDemo\MyProject.Web\obj\Debug\net8.0\staticwebassets.build.json
 E:\C#\WebDemo\MyProject.Web\obj\Debug\net8.0\staticwebassets.development.json
 E:\C#\WebDemo\MyProject.Web\obj\Debug\net8.0\staticwebassets\msbuild.MyProject.Web.Microsoft.AspNetCore.StaticWebAssets.props

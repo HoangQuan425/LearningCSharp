@@ -11,6 +11,7 @@ E:\C#\WebDemo\MyWebsite.Data.EF\obj\Debug\net8.0\MyWebsite.Data.EF.GeneratedMSBu
 E:\C#\WebDemo\MyWebsite.Data.EF\obj\Debug\net8.0\MyWebsite.Data.EF.AssemblyInfoInputs.cache
 E:\C#\WebDemo\MyWebsite.Data.EF\obj\Debug\net8.0\MyWebsite.Data.EF.AssemblyInfo.cs
 E:\C#\WebDemo\MyWebsite.Data.EF\obj\Debug\net8.0\MyWebsite.Data.EF.csproj.CoreCompileInputs.cache
+E:\C#\WebDemo\MyWebsite.Data.EF\obj\Debug\net8.0\MyWebsite.Data.EF.sourcelink.json
 E:\C#\WebDemo\MyWebsite.Data.EF\obj\Debug\net8.0\MyWebsite.Data.EF.csproj.CopyComplete
 E:\C#\WebDemo\MyWebsite.Data.EF\obj\Debug\net8.0\MyWebsite.Data.EF.dll
 E:\C#\WebDemo\MyWebsite.Data.EF\obj\Debug\net8.0\refint\MyWebsite.Data.EF.dll

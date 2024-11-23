@@ -5,6 +5,7 @@ E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure
 E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.AssemblyInfoInputs.cache
 E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.AssemblyInfo.cs
 E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.csproj.CoreCompileInputs.cache
+E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.sourcelink.json
 E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.dll
 E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\refint\MyWebsite.Infrastructure.dll
 E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.pdb
