@@ -33,6 +33,10 @@
     {
       "library": "bootbox.js@6.0.0",
       "destination": "wwwroot/lib/bootbox"
+    },
+    {
+      "library": "icheck-bootstrap@3.0.1",
+      "destination": "wwwroot/lib/icheck-bootstrap"
     }
   ]
 }

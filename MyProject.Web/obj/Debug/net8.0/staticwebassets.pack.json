@@ -297,6 +297,10 @@
       "PackagePath": "staticwebassets\\admin\\js\\pages\\dashboard3.min.js"
     },
     {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\app\\controllers\\login\\index.js",
+      "PackagePath": "staticwebassets\\app\\controllers\\login\\index.js"
+    },
+    {
       "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\app\\controllers\\product\\index.js",
       "PackagePath": "staticwebassets\\app\\controllers\\product\\index.js"
     },
@@ -1075,6 +1079,14 @@
     {
       "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\icheck-bootstrap\\icheck-bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\icheck-bootstrap\\icheck-bootstrap.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\icheck-bootstrap\\icheck-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\icheck-bootstrap\\icheck-bootstrap.min.css"
     },
     {
       "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
