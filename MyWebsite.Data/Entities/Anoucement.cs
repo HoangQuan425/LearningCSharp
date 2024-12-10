@@ -18,11 +18,12 @@ namespace MyWebsite.Data.Entities
 		public string Tittle { get; set; }
 		[StringLength(250)]
 		public string Content { get; set; }
-		[StringLength(450)]
-		public string UserId { get; set; }
-		//[ForeignKey("UserId")]
-		//public virtual AppUser AppUser { get; set; }
-		public virtual AnoucementUser AnoucementUsers { get; set; }
+		
+		public Guid UserId { get; set; }
+		[ForeignKey("UserId")]
+		public virtual AppUser AppUser { get; set; }
+
+		public virtual ICollection<AnoucementUser> AnnouncementUsers { get; set; }
 		public DateTime DateCreated { get; set; }
 		public DateTime DateModified { get; set; }
 		public Status Status { get; set; }

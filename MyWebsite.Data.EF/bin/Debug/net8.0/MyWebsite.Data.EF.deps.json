@@ -14,7 +14,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.0",
           "MyWebsite.Data": "1.0.0",
-          "MyWebsite.Infrastructure": "1.0.0"
+          "MyWebsite.Infrastructure": "1.0.0",
+          "MyWebsite.Utils": "1.0.0"
         },
         "runtime": {
           "MyWebsite.Data.EF.dll": {}
@@ -1392,6 +1393,11 @@
         "runtime": {
           "MyWebsite.Infrastructure.dll": {}
         }
+      },
+      "MyWebsite.Utils/1.0.0": {
+        "runtime": {
+          "MyWebsite.Utils.dll": {}
+        }
       }
     }
   },
@@ -2156,6 +2162,11 @@
       "sha512": ""
     },
     "MyWebsite.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyWebsite.Utils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

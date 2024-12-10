@@ -833,11 +833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\WebDemo\\MyWebsite.Data\\MyWebsite.Data.csproj",
+      "projectUniqueName": "E:\\CSharp\\WebDemo\\MyWebsite.Data\\MyWebsite.Data.csproj",
       "projectName": "MyWebsite.Data",
-      "projectPath": "E:\\C#\\WebDemo\\MyWebsite.Data\\MyWebsite.Data.csproj",
+      "projectPath": "E:\\CSharp\\WebDemo\\MyWebsite.Data\\MyWebsite.Data.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\WebDemo\\MyWebsite.Data\\obj\\",
+      "outputPath": "E:\\CSharp\\WebDemo\\MyWebsite.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -858,8 +858,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\C#\\WebDemo\\MyWebsite.Infrastructure\\MyWebsite.Infrastructure.csproj": {
-              "projectPath": "E:\\C#\\WebDemo\\MyWebsite.Infrastructure\\MyWebsite.Infrastructure.csproj"
+            "E:\\CSharp\\WebDemo\\MyWebsite.Infrastructure\\MyWebsite.Infrastructure.csproj": {
+              "projectPath": "E:\\CSharp\\WebDemo\\MyWebsite.Infrastructure\\MyWebsite.Infrastructure.csproj"
             }
           }
         }

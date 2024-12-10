@@ -1,248 +1,2260 @@
 {
   "Files": [
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyProject.Web.bundle.scp.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyProject.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\MyProject.Web.bundle.scp.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\css\\site.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\admin\\css\\adminlte.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\admin\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\admin\\img\\avatar.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\admin\\img\\avatar2.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\admin\\img\\avatar3.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\admin\\img\\avatar4.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\admin\\img\\avatar5.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\admin\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\admin\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\admin\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\admin\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\admin\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\admin\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\admin\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\admin\\img\\default-150x150.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\icons.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\admin\\img\\photo1.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\admin\\img\\photo2.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\photo3.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\photo4.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\admin\\js\\adminlte.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\js\\demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\demo.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\js\\demo.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\demo.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\js\\pages\\dashboard.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\pages\\dashboard.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\admin\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\js\\pages\\dashboard2.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\pages\\dashboard2.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\admin\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\admin\\js\\pages\\dashboard3.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\pages\\dashboard3.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\app\\controllers\\product\\index.js",
+      "PackagePath": "staticwebassets\\app\\controllers\\product\\index.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\app\\shared\\MyWebsite.js",
+      "PackagePath": "staticwebassets\\app\\shared\\MyWebsite.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\app\\shared\\constrants.js",
+      "PackagePath": "staticwebassets\\app\\shared\\constrants.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\app\\shared\\messages.js",
+      "PackagePath": "staticwebassets\\app\\shared\\messages.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\favicon.ico",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\dist\\assets\\site-B6hl_Ag9.css",
+      "PackagePath": "staticwebassets\\dist\\assets\\site-B6hl_Ag9.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\dist\\js\\site-BOSB0aUZ.js",
+      "PackagePath": "staticwebassets\\dist\\js\\site-BOSB0aUZ.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\js\\site.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\adminlte.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\avatar.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\avatar2.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\avatar3.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\avatar4.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\avatar5.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\default-150x150.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\icons.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\icons.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\photo1.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\photo2.png"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\photo3.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\photo4.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\js\\adminlte.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\js\\demo.js",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\js\\demo.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\js\\demo.min.js",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\js\\demo.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\js\\pages\\dashboard.min.js",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\js\\pages\\dashboard.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\js\\pages\\dashboard2.min.js",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\js\\pages\\dashboard2.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\adminlte\\js\\pages\\dashboard3.min.js",
+      "PackagePath": "staticwebassets\\lib\\adminlte\\js\\pages\\dashboard3.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootbox\\bootbox.js",
+      "PackagePath": "staticwebassets\\lib\\bootbox\\bootbox.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootbox\\bootbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootbox\\bootbox.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.min.css.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap-daterangepicker\\daterangepicker.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\daterangepicker.min.js.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap-daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\chart.cjs.map",
+      "PackagePath": "staticwebassets\\lib\\chart\\chart.cjs.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\chart.js",
+      "PackagePath": "staticwebassets\\lib\\chart\\chart.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\chart.js.map",
+      "PackagePath": "staticwebassets\\lib\\chart\\chart.js.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\chart.umd.js",
+      "PackagePath": "staticwebassets\\lib\\chart\\chart.umd.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\chart.umd.js.map",
+      "PackagePath": "staticwebassets\\lib\\chart\\chart.umd.js.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\chart.umd.min.js",
+      "PackagePath": "staticwebassets\\lib\\chart\\chart.umd.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\helpers.cjs.map",
+      "PackagePath": "staticwebassets\\lib\\chart\\helpers.cjs.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\helpers.js",
+      "PackagePath": "staticwebassets\\lib\\chart\\helpers.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\helpers.js.map",
+      "PackagePath": "staticwebassets\\lib\\chart\\helpers.js.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\helpers.min.js",
+      "PackagePath": "staticwebassets\\lib\\chart\\helpers.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart\\index.d.ts"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\index.umd.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart\\index.umd.d.ts"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\types.d.ts",
+      "PackagePath": "staticwebassets\\lib\\chart\\types.d.ts"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\fastclick\\fastclick.js",
+      "PackagePath": "staticwebassets\\lib\\fastclick\\fastclick.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\fastclick\\fastclick.min.js",
+      "PackagePath": "staticwebassets\\lib\\fastclick\\fastclick.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\C#\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\af.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\af.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\af.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\af.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar-dz.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar-dz.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar-kw.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar-kw.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar-ly.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar-ly.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar-ma.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar-ma.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar-ps.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar-ps.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar-ps.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar-ps.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar-sa.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar-sa.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar-tn.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar-tn.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ar.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ar.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\az.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\az.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\az.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\az.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\be.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\be.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\be.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\be.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\bg.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\bg.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\bg.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\bm.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\bm.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\bm.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\bm.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\bn-bd.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\bn-bd.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\bn-bd.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\bn-bd.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\bn.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\bn.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\bn.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\bn.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\bo.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\bo.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\bo.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\bo.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\br.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\br.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\br.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\br.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\bs.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\bs.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\bs.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ca.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ca.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\cs.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\cs.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\cs.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\cv.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\cv.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\cv.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\cv.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\cy.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\cy.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\cy.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\cy.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\da.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\da.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\da.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\da.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\de-at.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\de-at.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\de-at.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\de-ch.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\de-ch.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\de-ch.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\de.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\de.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\de.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\de.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\dv.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\dv.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\dv.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\dv.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\el.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\el.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\el.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\el.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-au.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-au.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-au.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-ca.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-ca.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-gb.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-gb.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-gb.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-ie.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-ie.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-ie.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-il.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-il.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-il.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-il.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-in.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-in.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-in.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-in.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-nz.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-nz.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-nz.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-sg.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-sg.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\en-sg.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\en-sg.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\eo.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\eo.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\eo.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\es-do.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\es-do.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\es-do.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\es-mx.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\es-mx.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\es-mx.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\es-mx.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\es-us.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\es-us.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\es-us.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\es.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\es.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\es.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\es.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\et.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\et.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\et.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\et.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\eu.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\eu.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\eu.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fa.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fa.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fa.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fi.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fi.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fil.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fil.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fil.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fil.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fo.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fo.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fo.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fo.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fr-ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fr-ca.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fr-ch.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fr-ch.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fr.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fr.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fr.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fy.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fy.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\fy.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\fy.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ga.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ga.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ga.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ga.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\gd.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\gd.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\gd.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\gd.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\gl.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\gl.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\gl.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\gom-deva.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\gom-deva.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\gom-deva.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\gom-deva.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\gom-latn.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\gom-latn.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\gom-latn.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\gom-latn.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\gu.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\gu.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\gu.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\gu.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\he.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\he.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\he.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\he.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\hi.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\hi.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\hi.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\hr.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\hr.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\hr.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\hu.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\hu.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\hu.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\hy-am.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\hy-am.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\hy-am.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\hy-am.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\id.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\id.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\id.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\id.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\is.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\is.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\is.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\is.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\it-ch.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\it-ch.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\it-ch.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\it-ch.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\it.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\it.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\it.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\it.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ja.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ja.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ja.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\jv.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\jv.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\jv.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\jv.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ka.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ka.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ka.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\kk.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\kk.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\kk.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\km.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\km.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\km.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\km.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\kn.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\kn.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\kn.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\kn.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ko.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ko.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ko.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ku-kmr.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ku-kmr.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ku-kmr.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ku-kmr.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ku.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ku.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ku.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ky.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ky.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ky.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ky.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\lb.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\lb.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\lb.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\lo.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\lo.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\lo.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\lo.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\lt.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\lt.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\lt.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\lv.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\lv.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\lv.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\me.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\me.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\me.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\me.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\mi.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\mi.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\mi.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\mi.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\mk.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\mk.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\mk.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ml.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ml.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ml.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ml.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\mn.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\mn.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\mn.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\mn.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\mr.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\mr.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\mr.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\mr.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ms-my.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ms-my.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ms-my.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ms.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ms.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ms.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\mt.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\mt.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\mt.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\mt.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\my.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\my.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\my.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\my.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\nb.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\nb.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\nb.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ne.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ne.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ne.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ne.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\nl-be.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\nl-be.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\nl-be.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\nl.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\nl.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\nn.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\nn.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\nn.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\oc-lnc.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\oc-lnc.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\oc-lnc.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\oc-lnc.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\pa-in.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\pa-in.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\pa-in.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\pa-in.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\pl.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\pl.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\pl.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\pt-br.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\pt-br.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\pt-br.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\pt.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\pt.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\pt.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ro.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ro.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ro.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ru.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ru.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ru.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sd.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sd.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sd.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sd.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\se.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\se.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\se.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\se.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\si.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\si.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\si.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\si.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sk.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sk.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sk.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sl.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sl.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sl.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sq.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sq.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sq.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sr-cyrl.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sr-cyrl.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sr.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sr.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sr.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ss.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ss.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ss.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ss.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sv.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sv.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sv.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sw.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sw.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\sw.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\sw.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ta.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ta.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ta.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ta.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\te.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\te.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\te.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\te.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tet.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tet.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tet.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tet.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tg.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tg.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tg.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tg.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\th.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\th.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\th.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\th.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tk.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tk.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tk.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tk.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tl-ph.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tl-ph.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tl-ph.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tl-ph.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tlh.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tlh.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tlh.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tlh.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tr.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tr.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tr.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tzl.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tzl.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tzl.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tzl.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tzm-latn.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tzm-latn.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tzm-latn.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tzm-latn.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tzm.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tzm.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\tzm.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\tzm.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ug-cn.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ug-cn.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ug-cn.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ug-cn.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\uk.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\uk.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\uk.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ur.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ur.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\ur.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\ur.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\uz-latn.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\uz-latn.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\uz-latn.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\uz-latn.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\uz.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\uz.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\uz.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\uz.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\vi.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\vi.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\vi.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\x-pseudo.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\x-pseudo.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\x-pseudo.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\x-pseudo.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\yo.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\yo.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\yo.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\yo.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\zh-cn.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\zh-cn.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\zh-hk.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\zh-hk.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\zh-hk.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\zh-hk.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\zh-mo.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\zh-mo.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\zh-mo.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\zh-mo.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\locale\\zh-tw.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\locale\\zh-tw.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\moment-with-locales.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\moment-with-locales.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\moment-with-locales.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\moment-with-locales.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\moment-with-locales.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\moment\\moment-with-locales.min.js.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\moment.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\moment.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\moment.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\moment\\moment.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\moment\\moment.min.js.map"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\notifyjs\\notify.js",
+      "PackagePath": "staticwebassets\\lib\\notifyjs\\notify.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\notifyjs\\notify.min.js",
+      "PackagePath": "staticwebassets\\lib\\notifyjs\\notify.min.js"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\notifyjs\\notify.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\notifyjs\\notify.min.js.map"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyProject.Web.Microsoft.AspNetCore.StaticWebAssets.props",

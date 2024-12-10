@@ -12,21 +12,30 @@ using System.Threading.Tasks;
 namespace MyWebsite.Data.Entities
 {
 	[Table("Slides")]
-	public class Slide : DomainEntity<int>, ISortable
+	public class Slide : DomainEntity<int>
 	{
+		[StringLength(250)]
 		[Required]
-		[StringLength(255)]
-		public string Name {  get; set; }
+		public string Name { set; get; }
+
+		[StringLength(250)]
+		public string Description { set; get; }
+
+		[StringLength(250)]
 		[Required]
-		[StringLength(255)]
-		public string Url {  get; set; }
+		public string Image { set; get; }
+
+		[StringLength(250)]
+		public string Url { set; get; }
+
+		public int? DisplayOrder { set; get; }
+
+		public bool Status { set; get; }
+
+		public string Content { set; get; }
+
+		[StringLength(25)]
 		[Required]
-		[StringLength(255)]
-		public string Image {  get; set; }
-		[Required]
-		[StringLength(255)]
-		public string Text {  get; set; }
-		public Status Status { get; set; }
-		public int SortOrder { get; set; }
+		public string GroupAlias { get; set; }
 	}
 }

@@ -18,6 +18,10 @@ namespace MyWebsite.Infrastructure.Interfaces
 		void Remove(K id);
 		void Remove(T entity);
 		void RemoveMultiple(List<T> entities);
+		Task AddAsync(T entity);
+		Task UpdateAsync(T entity);
+		Task RemoveAsync(K id);
+		Task RemoveAsync(T entity);
 
 	}
 }

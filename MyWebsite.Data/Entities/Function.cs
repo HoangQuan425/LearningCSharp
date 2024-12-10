@@ -29,6 +29,9 @@ namespace MyWebsite.Data.Entities
 		public string IconCss { get; set; }
 		public int SortOrder { set; get; }
 		public Status Status { set; get; }
+
+		public Function() { }
+
 		public Function(string name, string url, string parentId, string iconCss, int sortOrder)
 		{
 			this.Name = name;

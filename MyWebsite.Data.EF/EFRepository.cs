@@ -24,6 +24,11 @@ namespace MyWebsite.Data.EF
 			_context.Add(entity);
 		}
 
+		public async Task AddAsync(T entity)
+		{
+			await _context.Set<T>().AddAsync(entity);
+		}
+
 		public void Dispose()
 		{
 			if (_context != null)
@@ -77,6 +82,21 @@ namespace MyWebsite.Data.EF
 			_context.Set<T>().Remove(entity);
 		}
 
+		public async Task RemoveAsync(K id)
+		{
+			var entity = await _context.Set<T>().FindAsync(id);
+			if (entity != null)
+			{
+				_context.Set<T>().Remove(entity);
+			}
+		}
+
+		public async Task RemoveAsync(T entity)
+		{
+			_context.Set<T>().Remove(entity);
+			await Task.CompletedTask;
+		}
+
 		public void RemoveMultiple(List<T> entities)
 		{
 			_context.Set<T>().RemoveRange(entities);
@@ -85,6 +105,12 @@ namespace MyWebsite.Data.EF
 		public void Update(T entity)
 		{
 			_context.Set<T>().Update(entity);
+		}
+
+		public async Task UpdateAsync(T entity)
+		{
+			_context.Set<T>().Update(entity);
+			await Task.CompletedTask;
 		}
 	}
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OdiO52iNWfL4a1u3Ip78Y2KBlWOP0+L2KrS/GoicQukaxmWvSrzGeWXnelHiOyzCJlIQtMAFl/a/uKFhTbzc/A==",
+  "dgSpecHash": "BhZLqocJ61PuTpFFhr7eo/2KcHO9HfAKbTowown7Yt+mzOsALq004xSboSDLhjOjBPAAoHZpLCHFxMpslGY2oQ==",
   "success": true,
-  "projectFilePath": "E:\\C#\\WebDemo\\MyWebsite.Infrastructure\\MyWebsite.Infrastructure.csproj",
+  "projectFilePath": "E:\\CSharp\\WebDemo\\MyWebsite.Infrastructure\\MyWebsite.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

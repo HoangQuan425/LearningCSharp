@@ -6,4 +6,23 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MyWebsite.Application\MyWebsite.Application.csproj" />
+    <ProjectReference Include="..\MyWebsite.Data.EF\MyWebsite.Data.EF.csproj" />
+    <ProjectReference Include="..\MyWebsite.Data\MyWebsite.Data.csproj" />
+    <ProjectReference Include="..\MyWebsite.Infrastructure\MyWebsite.Infrastructure.csproj" />
+    <ProjectReference Include="..\MyWebsite.Utils\MyWebsite.Utils.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\dist\" />
+  </ItemGroup>
+
 </Project>

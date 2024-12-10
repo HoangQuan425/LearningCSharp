@@ -15,7 +15,7 @@ namespace MyWebsite.Data.Entities
 	{
 		public string FullName { get; set; }
 		public DateTime? BirthDate { get; set; }
-		public string Avatar {  get; set; }
+		public string? Avatar {  get; set; }
 		public decimal Balance {  get; set; }
 		public DateTime DateCreated { get; set; }
 		public DateTime DateModified { get; set; }

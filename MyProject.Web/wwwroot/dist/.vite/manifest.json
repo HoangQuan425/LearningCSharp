@@ -1,0 +1,11 @@
+{
+  "wwwroot/js/site.js": {
+    "file": "js/site-BOSB0aUZ.js",
+    "name": "site",
+    "src": "wwwroot/js/site.js",
+    "isEntry": true,
+    "css": [
+      "assets/site-B6hl_Ag9.css"
+    ]
+  }
+}

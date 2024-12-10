@@ -35,7 +35,7 @@ namespace MyWebsite.Data.Entities
 		public virtual ICollection<BlogTag> BlogTags { set; get; }
 
 		[StringLength(255)]
-		public string SeoPageTittle { get; set; }
+		public string SeoPageTitle { get; set; }
 		[Column(TypeName = "varchar")]
 		[StringLength(255)]
 		public string SeoAlias { get; set; }

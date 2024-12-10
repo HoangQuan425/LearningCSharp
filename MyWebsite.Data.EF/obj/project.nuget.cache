@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "51d0spIsFwsV/SWP0L0Bb8t3wrGn/2cCMiUMpy5dXFsl1BOSan5wp614iUc8ifyegzzk2y7Ui707pzP7MSjoaA==",
+  "dgSpecHash": "xA+KTYsddat4xCbYafr6TaM0190W30wAaALoYoMKjN4pQd9wGom2FJJEAphdZYqknAs65MPtCP4HR3XSZIvKJg==",
   "success": true,
-  "projectFilePath": "E:\\C#\\WebDemo\\MyWebsite.Data.EF\\MyWebsite.Data.EF.csproj",
+  "projectFilePath": "E:\\CSharp\\WebDemo\\MyWebsite.Data.EF\\MyWebsite.Data.EF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

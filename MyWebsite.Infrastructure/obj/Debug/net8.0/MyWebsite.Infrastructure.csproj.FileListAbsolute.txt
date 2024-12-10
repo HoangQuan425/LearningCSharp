@@ -10,3 +10,15 @@ E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure
 E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\refint\MyWebsite.Infrastructure.dll
 E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.pdb
 E:\C#\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\ref\MyWebsite.Infrastructure.dll
+E:\CSharp\WebDemo\MyWebsite.Infrastructure\bin\Debug\net8.0\MyWebsite.Infrastructure.deps.json
+E:\CSharp\WebDemo\MyWebsite.Infrastructure\bin\Debug\net8.0\MyWebsite.Infrastructure.dll
+E:\CSharp\WebDemo\MyWebsite.Infrastructure\bin\Debug\net8.0\MyWebsite.Infrastructure.pdb
+E:\CSharp\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.AssemblyInfoInputs.cache
+E:\CSharp\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.AssemblyInfo.cs
+E:\CSharp\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.csproj.CoreCompileInputs.cache
+E:\CSharp\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.sourcelink.json
+E:\CSharp\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.dll
+E:\CSharp\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\refint\MyWebsite.Infrastructure.dll
+E:\CSharp\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\MyWebsite.Infrastructure.pdb
+E:\CSharp\WebDemo\MyWebsite.Infrastructure\obj\Debug\net8.0\ref\MyWebsite.Infrastructure.dll

@@ -7,15 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="Implementation\" />
-    <Folder Include="AutoMapper\" />
-    <Folder Include="ViewModels\" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\MyWebsite.Data.EF\MyWebsite.Data.EF.csproj" />
     <ProjectReference Include="..\MyWebsite.Data\MyWebsite.Data.csproj" />
+    <ProjectReference Include="..\MyWebsite.Utils\MyWebsite.Utils.csproj" />
   </ItemGroup>
 
 </Project>

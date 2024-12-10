@@ -11,9 +11,8 @@ namespace MyWebsite.Data.Entities
 {
 	public class AnoucementUser : DomainEntity<int>
 	{
-		[StringLength(128)]
-		[Required]
 		public string AnoucementId { get; set; }
+
 		[StringLength(450)]
 		[Required]
 		public Guid UserId { get; set; }

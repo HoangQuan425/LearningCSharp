@@ -12,7 +12,6 @@ namespace MyWebsite.Data.Entities
 	[Table("AdvertistmentPositions")]
 	public class AdvertisementPosition : DomainEntity<string>
 	{
-		[StringLength(20)]
 		public string PageId { get; set; }
 
 		[StringLength(250)]

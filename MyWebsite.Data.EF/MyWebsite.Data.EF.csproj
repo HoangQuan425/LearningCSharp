@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Extensions\" />
-    <Folder Include="Repositories\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -25,6 +24,7 @@
   <ItemGroup>
     <ProjectReference Include="..\MyWebsite.Data\MyWebsite.Data.csproj" />
     <ProjectReference Include="..\MyWebsite.Infrastructure\MyWebsite.Infrastructure.csproj" />
+    <ProjectReference Include="..\MyWebsite.Utils\MyWebsite.Utils.csproj" />
   </ItemGroup>
 
 </Project>

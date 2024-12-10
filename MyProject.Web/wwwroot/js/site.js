@@ -1,4 +1,19 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿// Import core libraries
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap.bundle.min.js'
+import $ from 'jquery'
+import axios from 'axios'
 
-// Write your JavaScript code.
+// Import custom modules
+import './modules/layout.js'
+import './modules/api-handler.js'
+
+// Global configurations
+window.$ = window.jQuery = $
+axios.defaults.baseURL = '/api'
+
+// Main application logic
+document.addEventListener('DOMContentLoaded', () => {
+  // Initialize global components
+  console.log('Application initialized')
+})

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\WebDemo\\MyWebsite.Infrastructure\\MyWebsite.Infrastructure.csproj": {}
+    "E:\\CSharp\\WebDemo\\MyWebsite.Infrastructure\\MyWebsite.Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\C#\\WebDemo\\MyWebsite.Infrastructure\\MyWebsite.Infrastructure.csproj": {
+    "E:\\CSharp\\WebDemo\\MyWebsite.Infrastructure\\MyWebsite.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\WebDemo\\MyWebsite.Infrastructure\\MyWebsite.Infrastructure.csproj",
+        "projectUniqueName": "E:\\CSharp\\WebDemo\\MyWebsite.Infrastructure\\MyWebsite.Infrastructure.csproj",
         "projectName": "MyWebsite.Infrastructure",
-        "projectPath": "E:\\C#\\WebDemo\\MyWebsite.Infrastructure\\MyWebsite.Infrastructure.csproj",
+        "projectPath": "E:\\CSharp\\WebDemo\\MyWebsite.Infrastructure\\MyWebsite.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\WebDemo\\MyWebsite.Infrastructure\\obj\\",
+        "outputPath": "E:\\CSharp\\WebDemo\\MyWebsite.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
