@@ -2,6 +2,7 @@
 
 namespace MyProject.Web.Areas.Admin.Controllers
 {
+  [Area("Admin")]
   public class AuthenticationController : Controller
   {
     public IActionResult Login()
