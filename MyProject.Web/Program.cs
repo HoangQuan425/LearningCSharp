@@ -1,4 +1,4 @@
-using AutoMapper;
+﻿using AutoMapper;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +10,7 @@ using MyWebsite.Data.EF.Repositories;
 using MyWebsite.Data.Entities;
 using MyWebsite.Data.IRepositories;
 using MyWebsite.Infrastructure.Interfaces;
+using Serilog;
 namespace MyProject.Web
 {
 	public class Program
@@ -17,10 +18,16 @@ namespace MyProject.Web
 		public static void Main(string[] args)
 		{
 			var builder = WebApplication.CreateBuilder(args);
-			//add auto mapper
-			builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+			//cấu hình ghi log
+      builder.Host.UseSerilog((context, services, configuration) => configuration
+               .ReadFrom.Configuration(context.Configuration)
+               .ReadFrom.Services(services)
+               .Enrich.FromLogContext()
+               .WriteTo.Console()
+               .WriteTo.File("logs/mywebsite.txt", rollingInterval: RollingInterval.Day));
 
-
+      //add auto mapper
+      builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 			// Add services to the container.
 			builder.Services.AddControllersWithViews();
 			//configuration database
@@ -53,9 +60,10 @@ namespace MyProject.Web
 
 
 			var app = builder.Build();
-
-			//seed data
-			using (var scope = app.Services.CreateScope())
+			//add log
+      app.UseSerilogRequestLogging();
+      //seed data
+      using (var scope = app.Services.CreateScope())
 			{
 				var services = scope.ServiceProvider;
 				try
