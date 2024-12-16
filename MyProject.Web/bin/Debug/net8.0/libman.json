@@ -7,6 +7,16 @@
       "destination": "wwwroot/lib/adminlte/"
     },
     {
+      "library": "ionicons@2.0.1",
+      "destination": "wwwroot/lib/ionicons",
+      "files": [
+        "css/ionicons.css",
+        "css/ionicons.min.css",
+        "fonts/ionicons.ttf",
+        "fonts/ionicons.woff"
+      ]
+    },
+    {
       "library": "font-awesome@6.7.1",
       "destination": "wwwroot/lib/font-awesome/"
     },
@@ -19,7 +29,7 @@
       "destination": "wwwroot/lib/fastclick"
     },
     {
-      "library": "Chart.js@4.4.1",
+      "library": "Chart.js@2.9.4",
       "destination": "wwwroot/lib/chart"
     },
     {
