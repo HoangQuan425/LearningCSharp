@@ -845,60 +845,28 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\chart.cjs.map",
-      "PackagePath": "staticwebassets\\lib\\chart\\chart.cjs.map"
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\chart\\Chart.bundle.js"
     },
     {
-      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\chart.js",
-      "PackagePath": "staticwebassets\\lib\\chart\\chart.js"
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\chart\\Chart.bundle.min.js"
     },
     {
-      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\chart.js.map",
-      "PackagePath": "staticwebassets\\lib\\chart\\chart.js.map"
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\Chart.css",
+      "PackagePath": "staticwebassets\\lib\\chart\\Chart.css"
     },
     {
-      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\chart.min.js",
-      "PackagePath": "staticwebassets\\lib\\chart\\chart.min.js"
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\Chart.js",
+      "PackagePath": "staticwebassets\\lib\\chart\\Chart.js"
     },
     {
-      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\chart.umd.js",
-      "PackagePath": "staticwebassets\\lib\\chart\\chart.umd.js"
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\Chart.min.css",
+      "PackagePath": "staticwebassets\\lib\\chart\\Chart.min.css"
     },
     {
-      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\chart.umd.js.map",
-      "PackagePath": "staticwebassets\\lib\\chart\\chart.umd.js.map"
-    },
-    {
-      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\chart.umd.min.js",
-      "PackagePath": "staticwebassets\\lib\\chart\\chart.umd.min.js"
-    },
-    {
-      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\helpers.cjs.map",
-      "PackagePath": "staticwebassets\\lib\\chart\\helpers.cjs.map"
-    },
-    {
-      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\helpers.js",
-      "PackagePath": "staticwebassets\\lib\\chart\\helpers.js"
-    },
-    {
-      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\helpers.js.map",
-      "PackagePath": "staticwebassets\\lib\\chart\\helpers.js.map"
-    },
-    {
-      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\helpers.min.js",
-      "PackagePath": "staticwebassets\\lib\\chart\\helpers.min.js"
-    },
-    {
-      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\index.d.ts",
-      "PackagePath": "staticwebassets\\lib\\chart\\index.d.ts"
-    },
-    {
-      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\index.umd.d.ts",
-      "PackagePath": "staticwebassets\\lib\\chart\\index.umd.d.ts"
-    },
-    {
-      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\types.d.ts",
-      "PackagePath": "staticwebassets\\lib\\chart\\types.d.ts"
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\chart\\Chart.min.js",
+      "PackagePath": "staticwebassets\\lib\\chart\\Chart.min.js"
     },
     {
       "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\fastclick\\fastclick.js",
@@ -1087,6 +1055,22 @@
     {
       "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\icheck-bootstrap\\icheck-bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\icheck-bootstrap\\icheck-bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\ionicons\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\lib\\ionicons\\css\\ionicons.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\lib\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\lib\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\lib\\ionicons\\fonts\\ionicons.woff"
     },
     {
       "Id": "E:\\CSharp\\WebDemo\\MyProject.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
